@@ -9,7 +9,7 @@ from gym.envs.registration import register
 from randomagent import RandomAgent
 from sarsaagent import SarsaAgent
 from tdagent import TDAgent
-from advancedagent import AdvancedAgent
+#from advancedagent import AdvancedAgent
 
 
 def get_env() -> Monitor:
@@ -38,16 +38,26 @@ if __name__ == "__main__":
     # feel free to modify the number of games played (highly recommended!)
     # ... or whatever
 
-    env = get_env()
-    number_of_episodes = 100  # TODO do not forget to change the number of episodes
+    env0 = get_env()
+    env1 = get_env()
+    env2 = get_env()
+    env3 = get_env()
 
-    agent: AbstractAgent = RandomAgent(env, number_of_episodes)
-    # agent: AbstractAgent = DealerAgent(env, number_of_episodes)
-    # agent: AbstractAgent = TDAgent(env, number_of_episodes)
-    # agent: AbstractAgent = SarsaAgent(env, number_of_episodes)
+    number_of_episodes = 300000
+
+    random_agent: AbstractAgent = RandomAgent(env0, number_of_episodes)
+    dealer_agent: AbstractAgent = DealerAgent(env1, number_of_episodes)
+    td_agent: AbstractAgent = TDAgent(env2, number_of_episodes)
+    sarsa_agent: AbstractAgent = SarsaAgent(env3, number_of_episodes)
     # agent: AbstractAgent = AdvancedAgent(env, number_of_episodes)
-    agent.train()
+    random_agent.train()
+    dealer_agent.train()
+    td_agent.train()
+    sarsa_agent.train()
 
+    Us_observed_state = td_agent.get_observed_states()
+    Qs_hit, Qs_stick = sarsa_agent.get_observed_states()
     # in evaluate.py are some ideas that you might want to use to evaluate the agent
     # feel free to modify the code as you want to
-    evaluate(env.get_episode_rewards())
+    evaluate(env0.get_episode_rewards(), env1.get_episode_rewards(), env3.get_episode_rewards())
+    plot_learned_values(Us_observed_state, Qs_hit, Qs_stick)

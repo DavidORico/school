@@ -12,7 +12,7 @@ class DealerAgent(AbstractAgent):
 
     def train(self):
         for i in range(self.number_of_episodes):
-            print(i)
+            #print(i)
             observation = self.env.reset()
             terminal = False
             reward = 0
