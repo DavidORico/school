@@ -1,0 +1,7 @@
+#D#####
+#RRRRD#
+###D#D#
+#D#DLL#
+#RRD###
+#RRRRD#
+#####E#

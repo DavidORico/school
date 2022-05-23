@@ -1,0 +1,25 @@
+#T#######################
+#T  D  TTTTTD   D       #
+#TTTTTTT DDTD DD    D D #
+#       D  TD D       D #
+# D  DD D  TT DD  DDD   #
+#   D D D D TTT     D   #
+#DDDD   D     TTT    DD #
+#   D D D D   D TT      #
+# D DDD D DDD D  T  D D #
+# D     D       TTTTD D #
+# DD DDDD D D DD TT DDD #
+#   D       D D  T      #
+# D   DDDDD D D TT  D DD#
+#         D   D  TT     #
+# DDDDDD  D D DD  T D D #
+#       D D       TTTTT #
+#           DDDDDDD DDTT#
+# D     D           D  T#
+# D     D D  DDDD D DTTT#
+#               D   D TT#
+#DD       D D DD  D D TT#
+#         D       D D TT#
+# DD     DD DD  DDD D DT#
+#             D        T#
+#######################T#

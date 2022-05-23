@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=c++11 -Wall -pedantic -O3  -g CMakeFiles/assignment2.dir/src/main.cpp.o -o assignment2 

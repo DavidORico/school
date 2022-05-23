@@ -1,0 +1,15 @@
+#T#############
+#TD    D      #
+#TT DD D  DDD #
+# T       D D #
+#TTDDDDDDDD D #
+#TTT  D D   D #
+#DTTDDDDD DDD #
+# T   D   D   #
+#DTT DD DD  DD#
+# TT    D D   #
+# T DD DDDDDD #
+# TTT D     D #
+#   TTDDTT TT #
+#   DTTTTTTTTT#
+#############T#

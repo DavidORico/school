@@ -1,0 +1,51 @@
+#T#################################################
+#TTTT D D           D   D           D             #
+#TTTTTD D DDDD DDD  D   D D   DDDDD   DDD   D  DD #
+#TTTTTD D D       D   D             D D     D     #
+#TT T D D DDD D D DD DD D D D DDD D D D D   DD  DD#
+# TTT   D         D     D         D D D   D   D   #
+# T TDDDDDD DD DD DDD    DD D D DDDD  D     D  D  #
+# TTTT                D     D D       D       D   #
+# TTD TTT         DDD DD DD D DDDDD D D      DD D #
+# TTD DTTTTTDD      D       D   D D           D   #
+# TTTTTTT TT      D   DD DD DDD D DD  D     D D DD#
+# D TTTTTTT         D           D     D       D   #
+# DTTTTTT D       DD DD DDD DDD    DD D     D DDDD#
+#   TTTTTTTT      D     D       D D   D           #
+# D D     TT          D D D DD DD DDDD  D DDD  DD #
+#     D  TTTDDDDD D             D   D   D         #
+# DDD D TTT  T TT   D DDD D DDD  DD D DDD D   DDD #
+#   D  TTTTTTTTTT       D   D     D D         D D #
+#D  DDTTTTTTTTTTTTTTD D DD D  DDD D   D D D       #
+# D   TTTTTTTTTTTTD D   D   D   D           D   D #
+#  DD D DTD TTTTTTD TTD D   D D D D DDDD  D D   D #
+#       D D  TTTTT  TTD   D     D         D D D   #
+# DD DDD  DDDTTTTTDDTTTTTTT  DD  DD    DDD  D DD  #
+#         D   TTT TTTTTTTTTT T    D D D   D D   D #
+#  D DD     D TTTTTTTTTTT TTTTTDD D D D   DDDD  D #
+# D   D    TT TTTTTTTTTTT  T  TTD     D D         #
+#DD D DDTTDTTTTTTTT   DTDDDTDDDTDDD DDD D   D D D #
+#   D    TTTTTTTTTT D   D D    TTT      D   D   D #
+# D D DDDTTTTTDDTTTTD DDD     DTTT D DDDD D DDDDD #
+#       DTTTTT  T   D     D    TTTD             D #
+#DDDDD  TTTTTTT     D DDD D DD  TTDDDDDDD  DDDD   #
+#   D     TTTTT       D     D  TT       D     D D #
+# DDD D   TTTT     DD D DDD D DTTTDDDDD D  DD D D #
+#   D       DT  D     D     D  TT     D D D     D #
+#DD D  DD D DTD D D D   D DDDTTTTTTTTTD DDD  DD   #
+#   D D   D   D D   D     D  TT T TTTTT D         #
+# DDD   D  DD   DDDDD D DD  DDTTT  TTT        DDD #
+#       D   D       D     D       DT T  TT      D #
+#DD DDDDDD    DDD D  D DD D DDDDD TTTTTTTTTT  D D #
+#     D     D   D D D         D   TTTTTTTTTT  D D #
+# DDD D    DDD  D D D D  DD D D DDTT TTTTTTT  D   #
+# D     D     D D D   D         D TTTTTTDDT   D   #
+#   DDD DDDD    D DDDD    DDD D  DDTTTTT  TT   DDD#
+#   D     D     D   D   D       D  T T    TTD   D #
+# DDDD D  D D D DDD D DDD     DDD DDD D DTTD D    #
+#         D   D D D       D   D   D   D DTTTTTD D #
+# DD  DDD D     D D DDDDD DDD D D D   D D TTTTT D #
+# D   D   D D D D         D         D   D TTTTTT  #
+# D DD   DD D D D DDD D D D D D   DDD DD  T TTTTT #
+#   D     D             D       D       D TTTTTTTT#
+#################################################T#
